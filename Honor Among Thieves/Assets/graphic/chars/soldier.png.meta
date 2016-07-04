@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 245a2015ab04464479376e5fbcbff07b
-timeCreated: 1467578688
+timeCreated: 1467644279
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -93,15 +93,15 @@ TextureImporter:
         y: 192
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -18, y: 19}
-        - {x: -18, y: -31}
-        - {x: 18, y: -31}
-        - {x: 18, y: 18}
-        - {x: 16, y: 19}
+      - - {x: -18, y: 44.600006}
+        - {x: -18, y: -5.399994}
+        - {x: 18, y: -5.399994}
+        - {x: 18, y: 43.600006}
+        - {x: 16, y: 44.600006}
     - name: soldier_1
       rect:
         serializedVersion: 2
@@ -109,18 +109,18 @@ TextureImporter:
         y: 192
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 18, y: 15}
-        - {x: 9, y: 19}
-        - {x: -11, y: 19}
-        - {x: -18, y: 7}
-        - {x: -18, y: -21}
-        - {x: -16, y: -31}
-        - {x: 11, y: -31}
-        - {x: 18, y: -19}
+      - - {x: 18, y: 40.600006}
+        - {x: 9, y: 44.600006}
+        - {x: -11, y: 44.600006}
+        - {x: -18, y: 32.600006}
+        - {x: -18, y: 4.600006}
+        - {x: -16, y: -5.399994}
+        - {x: 11, y: -5.399994}
+        - {x: 18, y: 6.600006}
     - name: soldier_2
       rect:
         serializedVersion: 2
@@ -128,19 +128,19 @@ TextureImporter:
         y: 192
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -11, y: 18}
-        - {x: -15, y: 17}
-        - {x: -18, y: 15}
-        - {x: -18, y: -30}
-        - {x: -17, y: -32}
-        - {x: 14, y: -32}
-        - {x: 18, y: -26}
-        - {x: 18, y: 2}
-        - {x: 13, y: 18}
+      - - {x: -11, y: 43.600006}
+        - {x: -15, y: 42.600006}
+        - {x: -18, y: 40.600006}
+        - {x: -18, y: -4.399994}
+        - {x: -17, y: -6.399994}
+        - {x: 14, y: -6.399994}
+        - {x: 18, y: -0.3999939}
+        - {x: 18, y: 27.600006}
+        - {x: 13, y: 43.600006}
     - name: soldier_3
       rect:
         serializedVersion: 2
@@ -148,20 +148,20 @@ TextureImporter:
         y: 192
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -6, y: 18}
-        - {x: -11, y: 14}
-        - {x: -18, y: -1}
-        - {x: -18, y: -18}
-        - {x: -9, y: -30}
-        - {x: -5, y: -32}
-        - {x: 13, y: -32}
-        - {x: 18, y: -22}
-        - {x: 18, y: 1}
-        - {x: 9, y: 18}
+      - - {x: -6, y: 43.600006}
+        - {x: -11, y: 39.600006}
+        - {x: -18, y: 24.600006}
+        - {x: -18, y: 7.600006}
+        - {x: -9, y: -4.399994}
+        - {x: -5, y: -6.399994}
+        - {x: 13, y: -6.399994}
+        - {x: 18, y: 3.600006}
+        - {x: 18, y: 26.600006}
+        - {x: 9, y: 43.600006}
     - name: soldier_4
       rect:
         serializedVersion: 2
@@ -169,17 +169,17 @@ TextureImporter:
         y: 192
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -16, y: 19}
-        - {x: -18, y: 7}
-        - {x: -18, y: -24}
-        - {x: -9, y: -32}
-        - {x: 18, y: -32}
-        - {x: 18, y: 14}
-        - {x: 13, y: 19}
+      - - {x: -16, y: 44.600006}
+        - {x: -18, y: 32.600006}
+        - {x: -18, y: 1.6000061}
+        - {x: -9, y: -6.399994}
+        - {x: 18, y: -6.399994}
+        - {x: 18, y: 39.600006}
+        - {x: 13, y: 44.600006}
     - name: soldier_5
       rect:
         serializedVersion: 2
@@ -187,18 +187,18 @@ TextureImporter:
         y: 192
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 18, y: 15}
-        - {x: 13, y: 19}
-        - {x: -14, y: 19}
-        - {x: -18, y: 11}
-        - {x: -18, y: -25}
-        - {x: -10, y: -31}
-        - {x: 11, y: -31}
-        - {x: 18, y: -19}
+      - - {x: 18, y: 40.600006}
+        - {x: 13, y: 44.600006}
+        - {x: -14, y: 44.600006}
+        - {x: -18, y: 36.600006}
+        - {x: -18, y: 0.6000061}
+        - {x: -10, y: -5.399994}
+        - {x: 11, y: -5.399994}
+        - {x: 18, y: 6.600006}
     - name: soldier_6
       rect:
         serializedVersion: 2
@@ -206,19 +206,19 @@ TextureImporter:
         y: 192
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -11, y: 18}
-        - {x: -14, y: 16}
-        - {x: -18, y: 0}
-        - {x: -18, y: -21}
-        - {x: -11, y: -32}
-        - {x: 13, y: -32}
-        - {x: 18, y: -27}
-        - {x: 18, y: 15}
-        - {x: 8, y: 18}
+      - - {x: -11, y: 43.600006}
+        - {x: -14, y: 41.600006}
+        - {x: -18, y: 25.600006}
+        - {x: -18, y: 4.600006}
+        - {x: -11, y: -6.399994}
+        - {x: 13, y: -6.399994}
+        - {x: 18, y: -1.3999939}
+        - {x: 18, y: 40.600006}
+        - {x: 8, y: 43.600006}
     - name: soldier_7
       rect:
         serializedVersion: 2
@@ -226,20 +226,20 @@ TextureImporter:
         y: 192
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 11, y: 18}
-        - {x: -16, y: 18}
-        - {x: -18, y: 7}
-        - {x: -18, y: -21}
-        - {x: -12, y: -32}
-        - {x: 4, y: -32}
-        - {x: 9, y: -30}
-        - {x: 18, y: -22}
-        - {x: 18, y: 1}
-        - {x: 15, y: 13}
+      - - {x: 11, y: 43.600006}
+        - {x: -16, y: 43.600006}
+        - {x: -18, y: 32.600006}
+        - {x: -18, y: 4.600006}
+        - {x: -12, y: -6.399994}
+        - {x: 4, y: -6.399994}
+        - {x: 9, y: -4.399994}
+        - {x: 18, y: 3.600006}
+        - {x: 18, y: 26.600006}
+        - {x: 15, y: 38.600006}
     - name: soldier_8
       rect:
         serializedVersion: 2
@@ -247,16 +247,16 @@ TextureImporter:
         y: 192
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -18, y: 19}
-        - {x: -18, y: -32}
-        - {x: 9, y: -32}
-        - {x: 18, y: -23}
-        - {x: 18, y: 3}
-        - {x: 12, y: 19}
+      - - {x: -18, y: 44.600006}
+        - {x: -18, y: -6.399994}
+        - {x: 9, y: -6.399994}
+        - {x: 18, y: 2.600006}
+        - {x: 18, y: 28.600006}
+        - {x: 12, y: 44.600006}
     - name: soldier_9
       rect:
         serializedVersion: 2
@@ -264,20 +264,20 @@ TextureImporter:
         y: 128
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -6, y: 19}
-        - {x: -11, y: 15}
-        - {x: -12, y: 7}
-        - {x: -12, y: -29}
-        - {x: -8, y: -32}
-        - {x: 6, y: -32}
-        - {x: 12, y: -29}
-        - {x: 14, y: -22}
-        - {x: 14, y: 8}
-        - {x: 10, y: 19}
+      - - {x: -6, y: 44.600006}
+        - {x: -11, y: 40.600006}
+        - {x: -12, y: 32.600006}
+        - {x: -12, y: -3.399994}
+        - {x: -8, y: -6.399994}
+        - {x: 6, y: -6.399994}
+        - {x: 12, y: -3.399994}
+        - {x: 14, y: 3.600006}
+        - {x: 14, y: 33.600006}
+        - {x: 10, y: 44.600006}
     - name: soldier_10
       rect:
         serializedVersion: 2
@@ -285,21 +285,21 @@ TextureImporter:
         y: 128
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -9, y: 18}
-        - {x: -15, y: 6}
-        - {x: -15, y: -26}
-        - {x: -13, y: -31}
-        - {x: -5, y: -31}
-        - {x: -2, y: -28}
-        - {x: 3, y: -32}
-        - {x: 13, y: -32}
-        - {x: 15, y: -27}
-        - {x: 15, y: 8}
-        - {x: 10, y: 18}
+      - - {x: -9, y: 43.600006}
+        - {x: -15, y: 31.600006}
+        - {x: -15, y: -0.3999939}
+        - {x: -13, y: -5.399994}
+        - {x: -5, y: -5.399994}
+        - {x: -2, y: -2.399994}
+        - {x: 3, y: -6.399994}
+        - {x: 13, y: -6.399994}
+        - {x: 15, y: -1.3999939}
+        - {x: 15, y: 33.600006}
+        - {x: 10, y: 43.600006}
     - name: soldier_11
       rect:
         serializedVersion: 2
@@ -307,16 +307,16 @@ TextureImporter:
         y: 128
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -13, y: 19}
-        - {x: -13, y: -31}
-        - {x: 10, y: -31}
-        - {x: 15, y: -16}
-        - {x: 15, y: 14}
-        - {x: 8, y: 19}
+      - - {x: -13, y: 44.600006}
+        - {x: -13, y: -5.399994}
+        - {x: 10, y: -5.399994}
+        - {x: 15, y: 9.600006}
+        - {x: 15, y: 39.600006}
+        - {x: 8, y: 44.600006}
     - name: soldier_12
       rect:
         serializedVersion: 2
@@ -324,18 +324,18 @@ TextureImporter:
         y: 128
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -11, y: 19}
-        - {x: -11, y: -26}
-        - {x: -8, y: -30}
-        - {x: -5, y: -31}
-        - {x: 9, y: -31}
-        - {x: 15, y: -23}
-        - {x: 15, y: 16}
-        - {x: 11, y: 19}
+      - - {x: -11, y: 44.600006}
+        - {x: -11, y: -0.3999939}
+        - {x: -8, y: -4.399994}
+        - {x: -5, y: -5.399994}
+        - {x: 9, y: -5.399994}
+        - {x: 15, y: 2.600006}
+        - {x: 15, y: 41.600006}
+        - {x: 11, y: 44.600006}
     - name: soldier_13
       rect:
         serializedVersion: 2
@@ -343,18 +343,18 @@ TextureImporter:
         y: 128
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -10, y: 19}
-        - {x: -12, y: 14}
-        - {x: -12, y: -30}
-        - {x: -10, y: -32}
-        - {x: 8, y: -32}
-        - {x: 17, y: -23}
-        - {x: 17, y: 16}
-        - {x: 11, y: 19}
+      - - {x: -10, y: 44.600006}
+        - {x: -12, y: 39.600006}
+        - {x: -12, y: -4.399994}
+        - {x: -10, y: -6.399994}
+        - {x: 8, y: -6.399994}
+        - {x: 17, y: 2.600006}
+        - {x: 17, y: 41.600006}
+        - {x: 11, y: 44.600006}
     - name: soldier_14
       rect:
         serializedVersion: 2
@@ -362,17 +362,17 @@ TextureImporter:
         y: 128
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 7, y: 18}
-        - {x: -12, y: 18}
-        - {x: -14, y: 17}
-        - {x: -14, y: -32}
-        - {x: 9, y: -32}
-        - {x: 18, y: -22}
-        - {x: 18, y: 14}
+      - - {x: 7, y: 43.600006}
+        - {x: -12, y: 43.600006}
+        - {x: -14, y: 42.600006}
+        - {x: -14, y: -6.399994}
+        - {x: 9, y: -6.399994}
+        - {x: 18, y: 3.600006}
+        - {x: 18, y: 39.600006}
     - name: soldier_15
       rect:
         serializedVersion: 2
@@ -380,18 +380,18 @@ TextureImporter:
         y: 128
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 8, y: 18}
-        - {x: -11, y: 18}
-        - {x: -11, y: -25}
-        - {x: -10, y: -29}
-        - {x: -8, y: -32}
-        - {x: 7, y: -32}
-        - {x: 16, y: -22}
-        - {x: 16, y: 13}
+      - - {x: 8, y: 43.600006}
+        - {x: -11, y: 43.600006}
+        - {x: -11, y: 0.6000061}
+        - {x: -10, y: -3.399994}
+        - {x: -8, y: -6.399994}
+        - {x: 7, y: -6.399994}
+        - {x: 16, y: 3.600006}
+        - {x: 16, y: 38.600006}
     - name: soldier_16
       rect:
         serializedVersion: 2
@@ -399,17 +399,17 @@ TextureImporter:
         y: 128
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -11, y: 19}
-        - {x: -11, y: -23}
-        - {x: -8, y: -31}
-        - {x: -3, y: -32}
-        - {x: 12, y: -32}
-        - {x: 15, y: -31}
-        - {x: 15, y: 19}
+      - - {x: -11, y: 44.600006}
+        - {x: -11, y: 2.600006}
+        - {x: -8, y: -5.399994}
+        - {x: -3, y: -6.399994}
+        - {x: 12, y: -6.399994}
+        - {x: 15, y: -5.399994}
+        - {x: 15, y: 44.600006}
     - name: soldier_17
       rect:
         serializedVersion: 2
@@ -417,18 +417,18 @@ TextureImporter:
         y: 128
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -10, y: 19}
-        - {x: -12, y: 15}
-        - {x: -12, y: -28}
-        - {x: -11, y: -32}
-        - {x: 8, y: -32}
-        - {x: 14, y: -20}
-        - {x: 14, y: 16}
-        - {x: 8, y: 19}
+      - - {x: -10, y: 44.600006}
+        - {x: -12, y: 40.600006}
+        - {x: -12, y: -2.399994}
+        - {x: -11, y: -6.399994}
+        - {x: 8, y: -6.399994}
+        - {x: 14, y: 5.600006}
+        - {x: 14, y: 41.600006}
+        - {x: 8, y: 44.600006}
     - name: soldier_18
       rect:
         serializedVersion: 2
@@ -436,21 +436,21 @@ TextureImporter:
         y: 64
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 14, y: 17}
-        - {x: 8, y: 19}
-        - {x: -9, y: 19}
-        - {x: -12, y: 15}
-        - {x: -17, y: -2}
-        - {x: -18, y: -8}
-        - {x: -18, y: -32}
-        - {x: 15, y: -32}
-        - {x: 15, y: -31}
-        - {x: 18, y: -15}
-        - {x: 18, y: -4}
+      - - {x: 14, y: 42.6}
+        - {x: 8, y: 44.6}
+        - {x: -9, y: 44.6}
+        - {x: -12, y: 40.6}
+        - {x: -17, y: 23.599998}
+        - {x: -18, y: 17.599998}
+        - {x: -18, y: -6.4000015}
+        - {x: 15, y: -6.4000015}
+        - {x: 15, y: -5.4000015}
+        - {x: 18, y: 10.599998}
+        - {x: 18, y: 21.599998}
     - name: soldier_19
       rect:
         serializedVersion: 2
@@ -458,20 +458,20 @@ TextureImporter:
         y: 64
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 9, y: 19}
-        - {x: -10, y: 19}
-        - {x: -13, y: 17}
-        - {x: -17, y: -3}
-        - {x: -17, y: -23}
-        - {x: -9, y: -32}
-        - {x: 16, y: -32}
-        - {x: 19, y: -22}
-        - {x: 19, y: 11}
-        - {x: 15, y: 17}
+      - - {x: 9, y: 44.6}
+        - {x: -10, y: 44.6}
+        - {x: -13, y: 42.6}
+        - {x: -17, y: 22.599998}
+        - {x: -17, y: 2.5999985}
+        - {x: -9, y: -6.4000015}
+        - {x: 16, y: -6.4000015}
+        - {x: 19, y: 3.5999985}
+        - {x: 19, y: 36.6}
+        - {x: 15, y: 42.6}
     - name: soldier_20
       rect:
         serializedVersion: 2
@@ -479,18 +479,18 @@ TextureImporter:
         y: 64
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -7, y: 19}
-        - {x: -13, y: 17}
-        - {x: -17, y: 12}
-        - {x: -17, y: -26}
-        - {x: -15, y: -32}
-        - {x: 18, y: -32}
-        - {x: 18, y: 11}
-        - {x: 11, y: 19}
+      - - {x: -7, y: 44.6}
+        - {x: -13, y: 42.6}
+        - {x: -17, y: 37.6}
+        - {x: -17, y: -0.40000153}
+        - {x: -15, y: -6.4000015}
+        - {x: 18, y: -6.4000015}
+        - {x: 18, y: 36.6}
+        - {x: 11, y: 44.6}
     - name: soldier_21
       rect:
         serializedVersion: 2
@@ -498,19 +498,19 @@ TextureImporter:
         y: 64
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 12, y: 18}
-        - {x: -14, y: 18}
-        - {x: -16, y: 9}
-        - {x: -16, y: -29}
-        - {x: -11, y: -32}
-        - {x: 17, y: -32}
-        - {x: 18, y: -29}
-        - {x: 18, y: 11}
-        - {x: 15, y: 16}
+      - - {x: 12, y: 43.6}
+        - {x: -14, y: 43.6}
+        - {x: -16, y: 34.6}
+        - {x: -16, y: -3.4000015}
+        - {x: -11, y: -6.4000015}
+        - {x: 17, y: -6.4000015}
+        - {x: 18, y: -3.4000015}
+        - {x: 18, y: 36.6}
+        - {x: 15, y: 41.6}
     - name: soldier_22
       rect:
         serializedVersion: 2
@@ -518,21 +518,21 @@ TextureImporter:
         y: 64
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 16, y: 17}
-        - {x: 13, y: 19}
-        - {x: -7, y: 19}
-        - {x: -13, y: 17}
-        - {x: -17, y: 11}
-        - {x: -17, y: -24}
-        - {x: -15, y: -32}
-        - {x: 13, y: -32}
-        - {x: 14, y: -31}
-        - {x: 18, y: -24}
-        - {x: 18, y: 6}
+      - - {x: 16, y: 42.6}
+        - {x: 13, y: 44.6}
+        - {x: -7, y: 44.6}
+        - {x: -13, y: 42.6}
+        - {x: -17, y: 36.6}
+        - {x: -17, y: 1.5999985}
+        - {x: -15, y: -6.4000015}
+        - {x: 13, y: -6.4000015}
+        - {x: 14, y: -5.4000015}
+        - {x: 18, y: 1.5999985}
+        - {x: 18, y: 31.599998}
     - name: soldier_23
       rect:
         serializedVersion: 2
@@ -540,20 +540,20 @@ TextureImporter:
         y: 64
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 14, y: 19}
-        - {x: -13, y: 19}
-        - {x: -17, y: 5}
-        - {x: -17, y: -29}
-        - {x: -14, y: -32}
-        - {x: 11, y: -32}
-        - {x: 15, y: -31}
-        - {x: 19, y: -23}
-        - {x: 19, y: -4}
-        - {x: 16, y: 18}
+      - - {x: 14, y: 44.6}
+        - {x: -13, y: 44.6}
+        - {x: -17, y: 30.599998}
+        - {x: -17, y: -3.4000015}
+        - {x: -14, y: -6.4000015}
+        - {x: 11, y: -6.4000015}
+        - {x: 15, y: -5.4000015}
+        - {x: 19, y: 2.5999985}
+        - {x: 19, y: 21.599998}
+        - {x: 16, y: 43.6}
     - name: soldier_24
       rect:
         serializedVersion: 2
@@ -561,20 +561,20 @@ TextureImporter:
         y: 64
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 11, y: 19}
-        - {x: -9, y: 19}
-        - {x: -17, y: 2}
-        - {x: -17, y: -17}
-        - {x: -13, y: -29}
-        - {x: -8, y: -32}
-        - {x: 12, y: -32}
-        - {x: 19, y: -21}
-        - {x: 19, y: -3}
-        - {x: 16, y: 17}
+      - - {x: 11, y: 44.6}
+        - {x: -9, y: 44.6}
+        - {x: -17, y: 27.599998}
+        - {x: -17, y: 8.599998}
+        - {x: -13, y: -3.4000015}
+        - {x: -8, y: -6.4000015}
+        - {x: 12, y: -6.4000015}
+        - {x: 19, y: 4.5999985}
+        - {x: 19, y: 22.599998}
+        - {x: 16, y: 42.6}
     - name: soldier_25
       rect:
         serializedVersion: 2
@@ -582,21 +582,21 @@ TextureImporter:
         y: 64
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 9, y: 18}
-        - {x: -10, y: 18}
-        - {x: -13, y: 15}
-        - {x: -17, y: -1}
-        - {x: -17, y: -23}
-        - {x: -10, y: -32}
-        - {x: 1, y: -32}
-        - {x: 11, y: -30}
-        - {x: 18, y: -21}
-        - {x: 18, y: 3}
-        - {x: 15, y: 16}
+      - - {x: 9, y: 43.6}
+        - {x: -10, y: 43.6}
+        - {x: -13, y: 40.6}
+        - {x: -17, y: 24.599998}
+        - {x: -17, y: 2.5999985}
+        - {x: -10, y: -6.4000015}
+        - {x: 1, y: -6.4000015}
+        - {x: 11, y: -4.4000015}
+        - {x: 18, y: 4.5999985}
+        - {x: 18, y: 28.599998}
+        - {x: 15, y: 41.6}
     - name: soldier_26
       rect:
         serializedVersion: 2
@@ -604,20 +604,20 @@ TextureImporter:
         y: 64
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 9, y: 19}
-        - {x: -10, y: 19}
-        - {x: -13, y: 17}
-        - {x: -17, y: -2}
-        - {x: -17, y: -22}
-        - {x: -11, y: -32}
-        - {x: 17, y: -32}
-        - {x: 19, y: -24}
-        - {x: 19, y: 10}
-        - {x: 15, y: 17}
+      - - {x: 9, y: 44.6}
+        - {x: -10, y: 44.6}
+        - {x: -13, y: 42.6}
+        - {x: -17, y: 23.599998}
+        - {x: -17, y: 3.5999985}
+        - {x: -11, y: -6.4000015}
+        - {x: 17, y: -6.4000015}
+        - {x: 19, y: 1.5999985}
+        - {x: 19, y: 35.6}
+        - {x: 15, y: 42.6}
     - name: soldier_27
       rect:
         serializedVersion: 2
@@ -625,17 +625,17 @@ TextureImporter:
         y: 0
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -8, y: 19}
-        - {x: -14, y: 17}
-        - {x: -14, y: -17}
-        - {x: -9, y: -32}
-        - {x: 12, y: -32}
-        - {x: 12, y: 15}
-        - {x: 9, y: 19}
+      - - {x: -8, y: 44.6}
+        - {x: -14, y: 42.6}
+        - {x: -14, y: 8.6}
+        - {x: -9, y: -6.3999996}
+        - {x: 12, y: -6.3999996}
+        - {x: 12, y: 40.6}
+        - {x: 9, y: 44.6}
     - name: soldier_28
       rect:
         serializedVersion: 2
@@ -643,17 +643,17 @@ TextureImporter:
         y: 0
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -15, y: 18}
-        - {x: -15, y: -28}
-        - {x: -10, y: -32}
-        - {x: 11, y: -32}
-        - {x: 15, y: -29}
-        - {x: 15, y: -9}
-        - {x: 11, y: 18}
+      - - {x: -15, y: 43.6}
+        - {x: -15, y: -2.3999996}
+        - {x: -10, y: -6.3999996}
+        - {x: 11, y: -6.3999996}
+        - {x: 15, y: -3.3999996}
+        - {x: 15, y: 16.6}
+        - {x: 11, y: 43.6}
     - name: soldier_29
       rect:
         serializedVersion: 2
@@ -661,16 +661,16 @@ TextureImporter:
         y: 0
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -15, y: 19}
-        - {x: -15, y: -15}
-        - {x: -8, y: -31}
-        - {x: 13, y: -31}
-        - {x: 13, y: 18}
-        - {x: 12, y: 19}
+      - - {x: -15, y: 44.6}
+        - {x: -15, y: 10.6}
+        - {x: -8, y: -5.3999996}
+        - {x: 13, y: -5.3999996}
+        - {x: 13, y: 43.6}
+        - {x: 12, y: 44.6}
     - name: soldier_30
       rect:
         serializedVersion: 2
@@ -678,17 +678,17 @@ TextureImporter:
         y: 0
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -15, y: -20}
-        - {x: -6, y: -31}
-        - {x: 7, y: -31}
-        - {x: 11, y: -27}
-        - {x: 11, y: 19}
-        - {x: -13, y: 19}
-        - {x: -15, y: 18}
+      - - {x: -15, y: 5.6000004}
+        - {x: -6, y: -5.3999996}
+        - {x: 7, y: -5.3999996}
+        - {x: 11, y: -1.3999996}
+        - {x: 11, y: 44.6}
+        - {x: -13, y: 44.6}
+        - {x: -15, y: 43.6}
     - name: soldier_31
       rect:
         serializedVersion: 2
@@ -696,22 +696,22 @@ TextureImporter:
         y: 0
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 12, y: 17}
-        - {x: 5, y: 19}
-        - {x: -11, y: 19}
-        - {x: -15, y: 17}
-        - {x: -17, y: 3}
-        - {x: -17, y: -24}
-        - {x: -12, y: -30}
-        - {x: -4, y: -32}
-        - {x: 8, y: -32}
-        - {x: 12, y: -28}
-        - {x: 11, y: -24}
-        - {x: 12, y: -22}
+      - - {x: 12, y: 42.6}
+        - {x: 5, y: 44.6}
+        - {x: -11, y: 44.6}
+        - {x: -15, y: 42.6}
+        - {x: -17, y: 28.6}
+        - {x: -17, y: 1.6000004}
+        - {x: -12, y: -4.3999996}
+        - {x: -4, y: -6.3999996}
+        - {x: 8, y: -6.3999996}
+        - {x: 12, y: -2.3999996}
+        - {x: 11, y: 1.6000004}
+        - {x: 12, y: 3.6000004}
     - name: soldier_32
       rect:
         serializedVersion: 2
@@ -719,18 +719,18 @@ TextureImporter:
         y: 0
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 6, y: 18}
-        - {x: -16, y: 18}
-        - {x: -18, y: 17}
-        - {x: -18, y: -32}
-        - {x: 12, y: -32}
-        - {x: 14, y: -20}
-        - {x: 14, y: 6}
-        - {x: 13, y: 16}
+      - - {x: 6, y: 43.6}
+        - {x: -16, y: 43.6}
+        - {x: -18, y: 42.6}
+        - {x: -18, y: -6.3999996}
+        - {x: 12, y: -6.3999996}
+        - {x: 14, y: 5.6000004}
+        - {x: 14, y: 31.6}
+        - {x: 13, y: 41.6}
     - name: soldier_33
       rect:
         serializedVersion: 2
@@ -738,17 +738,17 @@ TextureImporter:
         y: 0
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -16, y: 18}
-        - {x: -16, y: -28}
-        - {x: -15, y: -32}
-        - {x: 9, y: -32}
-        - {x: 11, y: -26}
-        - {x: 11, y: 16}
-        - {x: 5, y: 18}
+      - - {x: -16, y: 43.6}
+        - {x: -16, y: -2.3999996}
+        - {x: -15, y: -6.3999996}
+        - {x: 9, y: -6.3999996}
+        - {x: 11, y: -0.39999962}
+        - {x: 11, y: 41.6}
+        - {x: 5, y: 43.6}
     - name: soldier_34
       rect:
         serializedVersion: 2
@@ -756,16 +756,16 @@ TextureImporter:
         y: 0
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -15, y: 19}
-        - {x: -15, y: -18}
-        - {x: -7, y: -32}
-        - {x: 4, y: -32}
-        - {x: 11, y: -22}
-        - {x: 11, y: 19}
+      - - {x: -15, y: 44.6}
+        - {x: -15, y: 7.6000004}
+        - {x: -7, y: -6.3999996}
+        - {x: 4, y: -6.3999996}
+        - {x: 11, y: 3.6000004}
+        - {x: 11, y: 44.6}
     - name: soldier_35
       rect:
         serializedVersion: 2
@@ -773,17 +773,17 @@ TextureImporter:
         y: 0
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -14, y: 19}
-        - {x: -14, y: -27}
-        - {x: -10, y: -32}
-        - {x: 10, y: -32}
-        - {x: 11, y: -31}
-        - {x: 12, y: -17}
-        - {x: 12, y: 19}
+      - - {x: -14, y: 44.6}
+        - {x: -14, y: -1.3999996}
+        - {x: -10, y: -6.3999996}
+        - {x: 10, y: -6.3999996}
+        - {x: 11, y: -5.3999996}
+        - {x: 12, y: 8.6}
+        - {x: 12, y: 44.6}
     outline: []
   spritePackingTag: 
   userData: 

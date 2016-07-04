@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System;
 
 public class mvc : MonoBehaviour {
 	public Animator par;
@@ -18,6 +19,7 @@ public class mvc : MonoBehaviour {
 	}
 	// Update is called once per frame
 	void Update () {
+		this.GetComponent<SpriteRenderer>().sortingOrder = Convert.ToInt32(this.transform.position.y * -10);
 		if (Input.GetButtonDown ("SM")) {
 			if (sm == 1) {
 				sm = sm*2;

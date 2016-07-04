@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 0b8465dca29582c428986118101434ef
-timeCreated: 1467578607
+timeCreated: 1467650923
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -102,15 +102,15 @@ TextureImporter:
         y: 128
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -16, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: 4}
-        - {x: -3, y: 4}
-        - {x: -16, y: 3}
+      - - {x: -16, y: -3.199997}
+        - {x: 16, y: -3.199997}
+        - {x: 16, y: 16.800003}
+        - {x: -3, y: 16.800003}
+        - {x: -16, y: 15.800003}
     - name: victoria_1
       rect:
         serializedVersion: 2
@@ -118,17 +118,17 @@ TextureImporter:
         y: 128
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 12, y: 3}
-        - {x: -4, y: 4}
-        - {x: -16, y: 4}
-        - {x: -16, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: 2}
-        - {x: 15, y: 3}
+      - - {x: 12, y: 15.800003}
+        - {x: -4, y: 16.800003}
+        - {x: -16, y: 16.800003}
+        - {x: -16, y: -3.199997}
+        - {x: 16, y: -3.199997}
+        - {x: 16, y: 14.800003}
+        - {x: 15, y: 15.800003}
     - name: victoria_2
       rect:
         serializedVersion: 2
@@ -136,14 +136,14 @@ TextureImporter:
         y: 128
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -10, y: 4}
-        - {x: -10, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: 4}
+      - - {x: -10, y: 16.800003}
+        - {x: -10, y: -3.199997}
+        - {x: 16, y: -3.199997}
+        - {x: 16, y: 16.800003}
     - name: victoria_3
       rect:
         serializedVersion: 2
@@ -151,15 +151,15 @@ TextureImporter:
         y: 128
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -16, y: 4}
-        - {x: -16, y: -16}
-        - {x: 10, y: -16}
-        - {x: 10, y: 2}
-        - {x: 8, y: 4}
+      - - {x: -16, y: 16.800003}
+        - {x: -16, y: -3.199997}
+        - {x: 10, y: -3.199997}
+        - {x: 10, y: 14.800003}
+        - {x: 8, y: 16.800003}
     - name: victoria_4
       rect:
         serializedVersion: 2
@@ -167,15 +167,15 @@ TextureImporter:
         y: 128
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -10, y: -2}
-        - {x: -10, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: 2}
-        - {x: -2, y: 2}
+      - - {x: -10, y: 10.800003}
+        - {x: -10, y: -3.199997}
+        - {x: 16, y: -3.199997}
+        - {x: 16, y: 14.800003}
+        - {x: -2, y: 14.800003}
     - name: victoria_5
       rect:
         serializedVersion: 2
@@ -183,15 +183,15 @@ TextureImporter:
         y: 128
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -16, y: 2}
-        - {x: -16, y: -16}
-        - {x: 10, y: -16}
-        - {x: 10, y: -2}
-        - {x: 3, y: 2}
+      - - {x: -16, y: 14.800003}
+        - {x: -16, y: -3.199997}
+        - {x: 10, y: -3.199997}
+        - {x: 10, y: 10.800003}
+        - {x: 3, y: 14.800003}
     - name: victoria_6
       rect:
         serializedVersion: 2
@@ -199,18 +199,18 @@ TextureImporter:
         y: 128
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -2, y: 16}
-        - {x: -11, y: 16}
-        - {x: -12, y: 15}
-        - {x: -12, y: -16}
-        - {x: 13, y: -16}
-        - {x: 14, y: -15}
-        - {x: 14, y: 3}
-        - {x: 11, y: 10}
+      - - {x: -2, y: 28.800003}
+        - {x: -11, y: 28.800003}
+        - {x: -12, y: 27.800003}
+        - {x: -12, y: -3.199997}
+        - {x: 13, y: -3.199997}
+        - {x: 14, y: -2.199997}
+        - {x: 14, y: 15.800003}
+        - {x: 11, y: 22.800003}
     - name: victoria_7
       rect:
         serializedVersion: 2
@@ -218,15 +218,15 @@ TextureImporter:
         y: 128
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 12, y: 16}
-        - {x: -9, y: 16}
-        - {x: -14, y: 9}
-        - {x: -14, y: -16}
-        - {x: 12, y: -16}
+      - - {x: 12, y: 28.800003}
+        - {x: -9, y: 28.800003}
+        - {x: -14, y: 21.800003}
+        - {x: -14, y: -3.199997}
+        - {x: 12, y: -3.199997}
     - name: victoria_8
       rect:
         serializedVersion: 2
@@ -234,16 +234,16 @@ TextureImporter:
         y: 128
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -7, y: 16}
-        - {x: -7, y: -16}
-        - {x: 12, y: -16}
-        - {x: 14, y: -15}
-        - {x: 16, y: -1}
-        - {x: 16, y: 16}
+      - - {x: -7, y: 28.800003}
+        - {x: -7, y: -3.199997}
+        - {x: 12, y: -3.199997}
+        - {x: 14, y: -2.199997}
+        - {x: 16, y: 11.800003}
+        - {x: 16, y: 28.800003}
     - name: victoria_9
       rect:
         serializedVersion: 2
@@ -251,14 +251,14 @@ TextureImporter:
         y: 128
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -16, y: 10}
-        - {x: 16, y: 10}
-        - {x: 16, y: 16}
-        - {x: -16, y: 16}
+      - - {x: -16, y: 22.800003}
+        - {x: 16, y: 22.800003}
+        - {x: 16, y: 28.800003}
+        - {x: -16, y: 28.800003}
     - name: victoria_10
       rect:
         serializedVersion: 2
@@ -266,16 +266,16 @@ TextureImporter:
         y: 128
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -16, y: 16}
-        - {x: -16, y: -1}
-        - {x: -12, y: -16}
-        - {x: 7, y: -16}
-        - {x: 7, y: 15}
-        - {x: 6, y: 16}
+      - - {x: -16, y: 28.800003}
+        - {x: -16, y: 11.800003}
+        - {x: -12, y: -3.199997}
+        - {x: 7, y: -3.199997}
+        - {x: 7, y: 27.800003}
+        - {x: 6, y: 28.800003}
     - name: victoria_11
       rect:
         serializedVersion: 2
@@ -283,14 +283,14 @@ TextureImporter:
         y: 96
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -16, y: 16}
-        - {x: -16, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: 16}
+      - - {x: -16, y: 28.800003}
+        - {x: -16, y: -3.199997}
+        - {x: 16, y: -3.199997}
+        - {x: 16, y: 28.800003}
     - name: victoria_12
       rect:
         serializedVersion: 2
@@ -298,14 +298,14 @@ TextureImporter:
         y: 96
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -16, y: 16}
-        - {x: -16, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: 16}
+      - - {x: -16, y: 28.800003}
+        - {x: -16, y: -3.199997}
+        - {x: 16, y: -3.199997}
+        - {x: 16, y: 28.800003}
     - name: victoria_13
       rect:
         serializedVersion: 2
@@ -313,14 +313,14 @@ TextureImporter:
         y: 96
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -9, y: 16}
-        - {x: -9, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: 16}
+      - - {x: -9, y: 28.800003}
+        - {x: -9, y: -3.199997}
+        - {x: 16, y: -3.199997}
+        - {x: 16, y: 28.800003}
     - name: victoria_14
       rect:
         serializedVersion: 2
@@ -328,14 +328,14 @@ TextureImporter:
         y: 96
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 9, y: -16}
-        - {x: 9, y: 16}
-        - {x: -16, y: 16}
-        - {x: -16, y: -16}
+      - - {x: 9, y: -3.199997}
+        - {x: 9, y: 28.800003}
+        - {x: -16, y: 28.800003}
+        - {x: -16, y: -3.199997}
     - name: victoria_15
       rect:
         serializedVersion: 2
@@ -343,14 +343,14 @@ TextureImporter:
         y: 96
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -10, y: 16}
-        - {x: -10, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: 16}
+      - - {x: -10, y: 28.800003}
+        - {x: -10, y: -3.199997}
+        - {x: 16, y: -3.199997}
+        - {x: 16, y: 28.800003}
     - name: victoria_16
       rect:
         serializedVersion: 2
@@ -358,14 +358,14 @@ TextureImporter:
         y: 96
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 10, y: -16}
-        - {x: 10, y: 16}
-        - {x: -16, y: 16}
-        - {x: -16, y: -16}
+      - - {x: 10, y: -3.199997}
+        - {x: 10, y: 28.800003}
+        - {x: -16, y: 28.800003}
+        - {x: -16, y: -3.199997}
     - name: victoria_17
       rect:
         serializedVersion: 2
@@ -373,17 +373,17 @@ TextureImporter:
         y: 96
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 12, y: 6}
-        - {x: -15, y: 6}
-        - {x: -15, y: -16}
-        - {x: 14, y: -16}
-        - {x: 14, y: -13}
-        - {x: 15, y: -9}
-        - {x: 15, y: 5}
+      - - {x: 12, y: 18.800003}
+        - {x: -15, y: 18.800003}
+        - {x: -15, y: -3.199997}
+        - {x: 14, y: -3.199997}
+        - {x: 14, y: -0.19999695}
+        - {x: 15, y: 3.800003}
+        - {x: 15, y: 17.800003}
     - name: victoria_18
       rect:
         serializedVersion: 2
@@ -391,18 +391,18 @@ TextureImporter:
         y: 96
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -13, y: 13}
-        - {x: -15, y: 10}
-        - {x: -15, y: -4}
-        - {x: -14, y: -16}
-        - {x: 13, y: -16}
-        - {x: 15, y: -11}
-        - {x: 15, y: 12}
-        - {x: 10, y: 13}
+      - - {x: -13, y: 25.800003}
+        - {x: -15, y: 22.800003}
+        - {x: -15, y: 8.800003}
+        - {x: -14, y: -3.199997}
+        - {x: 13, y: -3.199997}
+        - {x: 15, y: 1.800003}
+        - {x: 15, y: 24.800003}
+        - {x: 10, y: 25.800003}
     - name: victoria_19
       rect:
         serializedVersion: 2
@@ -410,19 +410,19 @@ TextureImporter:
         y: 96
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 11, y: 16}
-        - {x: -7, y: 16}
-        - {x: -8, y: 9}
-        - {x: -8, y: -11}
-        - {x: -7, y: -16}
-        - {x: 1, y: -16}
-        - {x: 5, y: -7}
-        - {x: 6, y: -4}
-        - {x: 9, y: 6}
+      - - {x: 11, y: 28.800003}
+        - {x: -7, y: 28.800003}
+        - {x: -8, y: 21.800003}
+        - {x: -8, y: 1.800003}
+        - {x: -7, y: -3.199997}
+        - {x: 1, y: -3.199997}
+        - {x: 5, y: 5.800003}
+        - {x: 6, y: 8.800003}
+        - {x: 9, y: 18.800003}
     - name: victoria_20
       rect:
         serializedVersion: 2
@@ -430,18 +430,18 @@ TextureImporter:
         y: 96
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -11, y: 16}
-        - {x: -11, y: 9}
-        - {x: -8, y: -8}
-        - {x: -2, y: -16}
-        - {x: 6, y: -16}
-        - {x: 8, y: -12}
-        - {x: 8, y: 7}
-        - {x: 7, y: 16}
+      - - {x: -11, y: 28.800003}
+        - {x: -11, y: 21.800003}
+        - {x: -8, y: 4.800003}
+        - {x: -2, y: -3.199997}
+        - {x: 6, y: -3.199997}
+        - {x: 8, y: 0.80000305}
+        - {x: 8, y: 19.800003}
+        - {x: 7, y: 28.800003}
     - name: victoria_21
       rect:
         serializedVersion: 2
@@ -449,15 +449,15 @@ TextureImporter:
         y: 64
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -16, y: 16}
-        - {x: -16, y: -15}
-        - {x: -15, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: 16}
+      - - {x: -16, y: 28.800003}
+        - {x: -16, y: -2.199997}
+        - {x: -15, y: -3.199997}
+        - {x: 16, y: -3.199997}
+        - {x: 16, y: 28.800003}
     - name: victoria_22
       rect:
         serializedVersion: 2
@@ -465,14 +465,14 @@ TextureImporter:
         y: 64
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -16, y: 16}
-        - {x: -16, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: 16}
+      - - {x: -16, y: 28.800003}
+        - {x: -16, y: -3.199997}
+        - {x: 16, y: -3.199997}
+        - {x: 16, y: 28.800003}
     - name: victoria_23
       rect:
         serializedVersion: 2
@@ -480,15 +480,15 @@ TextureImporter:
         y: 64
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -9, y: 16}
-        - {x: -9, y: -13}
-        - {x: -7, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: 16}
+      - - {x: -9, y: 28.800003}
+        - {x: -9, y: -0.19999695}
+        - {x: -7, y: -3.199997}
+        - {x: 16, y: -3.199997}
+        - {x: 16, y: 28.800003}
     - name: victoria_24
       rect:
         serializedVersion: 2
@@ -496,15 +496,15 @@ TextureImporter:
         y: 64
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -16, y: 16}
-        - {x: -16, y: -16}
-        - {x: 8, y: -16}
-        - {x: 9, y: -14}
-        - {x: 9, y: 16}
+      - - {x: -16, y: 28.800003}
+        - {x: -16, y: -3.199997}
+        - {x: 8, y: -3.199997}
+        - {x: 9, y: -1.199997}
+        - {x: 9, y: 28.800003}
     - name: victoria_25
       rect:
         serializedVersion: 2
@@ -512,16 +512,16 @@ TextureImporter:
         y: 64
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -10, y: 16}
-        - {x: -10, y: 2}
-        - {x: -9, y: -16}
-        - {x: 1, y: -16}
-        - {x: 16, y: -9}
-        - {x: 16, y: 16}
+      - - {x: -10, y: 28.800003}
+        - {x: -10, y: 14.800003}
+        - {x: -9, y: -3.199997}
+        - {x: 1, y: -3.199997}
+        - {x: 16, y: 3.800003}
+        - {x: 16, y: 28.800003}
     - name: victoria_26
       rect:
         serializedVersion: 2
@@ -529,16 +529,16 @@ TextureImporter:
         y: 64
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -16, y: 16}
-        - {x: -16, y: -9}
-        - {x: -1, y: -16}
-        - {x: 9, y: -16}
-        - {x: 10, y: -10}
-        - {x: 10, y: 16}
+      - - {x: -16, y: 28.800003}
+        - {x: -16, y: 3.800003}
+        - {x: -1, y: -3.199997}
+        - {x: 9, y: -3.199997}
+        - {x: 10, y: 2.800003}
+        - {x: 10, y: 28.800003}
     - name: victoria_27
       rect:
         serializedVersion: 2
@@ -546,16 +546,16 @@ TextureImporter:
         y: 64
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -14, y: 16}
-        - {x: -14, y: 4}
-        - {x: -11, y: -2}
-        - {x: 11, y: -2}
-        - {x: 14, y: 4}
-        - {x: 14, y: 16}
+      - - {x: -14, y: 28.800003}
+        - {x: -14, y: 16.800003}
+        - {x: -11, y: 10.800003}
+        - {x: 11, y: 10.800003}
+        - {x: 14, y: 16.800003}
+        - {x: 14, y: 28.800003}
     - name: victoria_28
       rect:
         serializedVersion: 2
@@ -563,18 +563,18 @@ TextureImporter:
         y: 64
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -10, y: 13}
-        - {x: -15, y: 9}
-        - {x: -15, y: -8}
-        - {x: -14, y: -16}
-        - {x: 13, y: -16}
-        - {x: 15, y: -3}
-        - {x: 15, y: 9}
-        - {x: 10, y: 13}
+      - - {x: -10, y: 25.800003}
+        - {x: -15, y: 21.800003}
+        - {x: -15, y: 4.800003}
+        - {x: -14, y: -3.199997}
+        - {x: 13, y: -3.199997}
+        - {x: 15, y: 9.800003}
+        - {x: 15, y: 21.800003}
+        - {x: 10, y: 25.800003}
     - name: victoria_29
       rect:
         serializedVersion: 2
@@ -582,16 +582,16 @@ TextureImporter:
         y: 64
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -7, y: 16}
-        - {x: -13, y: -16}
-        - {x: 11, y: -16}
-        - {x: 11, y: -14}
-        - {x: 6, y: 5}
-        - {x: 2, y: 16}
+      - - {x: -7, y: 28.800003}
+        - {x: -13, y: -3.199997}
+        - {x: 11, y: -3.199997}
+        - {x: 11, y: -1.199997}
+        - {x: 6, y: 17.800003}
+        - {x: 2, y: 28.800003}
     - name: victoria_30
       rect:
         serializedVersion: 2
@@ -599,16 +599,16 @@ TextureImporter:
         y: 64
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -2, y: 16}
-        - {x: -11, y: -10}
-        - {x: -11, y: -16}
-        - {x: 13, y: -16}
-        - {x: 13, y: -12}
-        - {x: 7, y: 16}
+      - - {x: -2, y: 28.800003}
+        - {x: -11, y: 2.800003}
+        - {x: -11, y: -3.199997}
+        - {x: 13, y: -3.199997}
+        - {x: 13, y: 0.80000305}
+        - {x: 7, y: 28.800003}
     - name: victoria_31
       rect:
         serializedVersion: 2
@@ -616,20 +616,20 @@ TextureImporter:
         y: 32
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 8, y: 16}
-        - {x: -9, y: 16}
-        - {x: -14, y: 6}
-        - {x: -14, y: -11}
-        - {x: -12, y: -15}
-        - {x: -10, y: -16}
-        - {x: 6, y: -16}
-        - {x: 10, y: -15}
-        - {x: 14, y: -4}
-        - {x: 14, y: 5}
+      - - {x: 8, y: 28.8}
+        - {x: -9, y: 28.8}
+        - {x: -14, y: 18.8}
+        - {x: -14, y: 1.7999992}
+        - {x: -12, y: -2.2000008}
+        - {x: -10, y: -3.2000008}
+        - {x: 6, y: -3.2000008}
+        - {x: 10, y: -2.2000008}
+        - {x: 14, y: 8.799999}
+        - {x: 14, y: 17.8}
     - name: victoria_32
       rect:
         serializedVersion: 2
@@ -637,16 +637,16 @@ TextureImporter:
         y: 32
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -10, y: 16}
-        - {x: -15, y: 8}
-        - {x: -15, y: -16}
-        - {x: 15, y: -16}
-        - {x: 15, y: 6}
-        - {x: 10, y: 16}
+      - - {x: -10, y: 28.8}
+        - {x: -15, y: 20.8}
+        - {x: -15, y: -3.2000008}
+        - {x: 15, y: -3.2000008}
+        - {x: 15, y: 18.8}
+        - {x: 10, y: 28.8}
     - name: victoria_33
       rect:
         serializedVersion: 2
@@ -654,16 +654,16 @@ TextureImporter:
         y: 32
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -5, y: 16}
-        - {x: -16, y: 7}
-        - {x: -16, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: 6}
-        - {x: 8, y: 16}
+      - - {x: -5, y: 28.8}
+        - {x: -16, y: 19.8}
+        - {x: -16, y: -3.2000008}
+        - {x: 16, y: -3.2000008}
+        - {x: 16, y: 18.8}
+        - {x: 8, y: 28.8}
     - name: victoria_34
       rect:
         serializedVersion: 2
@@ -671,18 +671,18 @@ TextureImporter:
         y: 32
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 6, y: 2}
-        - {x: -8, y: 2}
-        - {x: -15, y: -2}
-        - {x: -16, y: -11}
-        - {x: -16, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: -9}
-        - {x: 10, y: 1}
+      - - {x: 6, y: 14.799999}
+        - {x: -8, y: 14.799999}
+        - {x: -15, y: 10.799999}
+        - {x: -16, y: 1.7999992}
+        - {x: -16, y: -3.2000008}
+        - {x: 16, y: -3.2000008}
+        - {x: 16, y: 3.7999992}
+        - {x: 10, y: 13.799999}
     - name: victoria_35
       rect:
         serializedVersion: 2
@@ -690,22 +690,22 @@ TextureImporter:
         y: 32
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -10, y: 16}
-        - {x: -13, y: 14}
-        - {x: -14, y: 12}
-        - {x: -14, y: 1}
-        - {x: -9, y: -2}
-        - {x: -9, y: -14}
-        - {x: -6, y: -16}
-        - {x: 5, y: -16}
-        - {x: 10, y: -14}
-        - {x: 14, y: -8}
-        - {x: 14, y: 14}
-        - {x: 13, y: 16}
+      - - {x: -10, y: 28.8}
+        - {x: -13, y: 26.8}
+        - {x: -14, y: 24.8}
+        - {x: -14, y: 13.799999}
+        - {x: -9, y: 10.799999}
+        - {x: -9, y: -1.2000008}
+        - {x: -6, y: -3.2000008}
+        - {x: 5, y: -3.2000008}
+        - {x: 10, y: -1.2000008}
+        - {x: 14, y: 4.799999}
+        - {x: 14, y: 26.8}
+        - {x: 13, y: 28.8}
     - name: victoria_36
       rect:
         serializedVersion: 2
@@ -713,16 +713,16 @@ TextureImporter:
         y: 32
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -6, y: 16}
-        - {x: -7, y: 15}
-        - {x: -7, y: -16}
-        - {x: 8, y: -16}
-        - {x: 16, y: 8}
-        - {x: 16, y: 16}
+      - - {x: -6, y: 28.8}
+        - {x: -7, y: 27.8}
+        - {x: -7, y: -3.2000008}
+        - {x: 8, y: -3.2000008}
+        - {x: 16, y: 20.8}
+        - {x: 16, y: 28.8}
     - name: victoria_37
       rect:
         serializedVersion: 2
@@ -730,17 +730,17 @@ TextureImporter:
         y: 32
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -16, y: 16}
-        - {x: -16, y: 8}
-        - {x: -8, y: -14}
-        - {x: -7, y: -16}
-        - {x: 7, y: -16}
-        - {x: 7, y: 15}
-        - {x: 6, y: 16}
+      - - {x: -16, y: 28.8}
+        - {x: -16, y: 20.8}
+        - {x: -8, y: -1.2000008}
+        - {x: -7, y: -3.2000008}
+        - {x: 7, y: -3.2000008}
+        - {x: 7, y: 27.8}
+        - {x: 6, y: 28.8}
     - name: victoria_38
       rect:
         serializedVersion: 2
@@ -748,18 +748,18 @@ TextureImporter:
         y: 0
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -7, y: 14}
-        - {x: -12, y: 5}
-        - {x: -12, y: -7}
-        - {x: -5, y: -16}
-        - {x: 7, y: -16}
-        - {x: 12, y: -5}
-        - {x: 12, y: 7}
-        - {x: 7, y: 14}
+      - - {x: -7, y: 26.8}
+        - {x: -12, y: 17.8}
+        - {x: -12, y: 5.8}
+        - {x: -5, y: -3.1999998}
+        - {x: 7, y: -3.1999998}
+        - {x: 12, y: 7.8}
+        - {x: 12, y: 19.8}
+        - {x: 7, y: 26.8}
     - name: victoria_39
       rect:
         serializedVersion: 2
@@ -767,18 +767,18 @@ TextureImporter:
         y: 0
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -8, y: 14}
-        - {x: -12, y: 10}
-        - {x: -12, y: -10}
-        - {x: -9, y: -16}
-        - {x: 8, y: -16}
-        - {x: 12, y: -8}
-        - {x: 12, y: 9}
-        - {x: 7, y: 14}
+      - - {x: -8, y: 26.8}
+        - {x: -12, y: 22.8}
+        - {x: -12, y: 2.8000002}
+        - {x: -9, y: -3.1999998}
+        - {x: 8, y: -3.1999998}
+        - {x: 12, y: 4.8}
+        - {x: 12, y: 21.8}
+        - {x: 7, y: 26.8}
     - name: victoria_40
       rect:
         serializedVersion: 2
@@ -786,17 +786,17 @@ TextureImporter:
         y: 0
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -16, y: 16}
-        - {x: -16, y: 2}
-        - {x: -11, y: -5}
-        - {x: -9, y: -6}
-        - {x: 9, y: -6}
-        - {x: 16, y: 0}
-        - {x: 16, y: 16}
+      - - {x: -16, y: 28.8}
+        - {x: -16, y: 14.8}
+        - {x: -11, y: 7.8}
+        - {x: -9, y: 6.8}
+        - {x: 9, y: 6.8}
+        - {x: 16, y: 12.8}
+        - {x: 16, y: 28.8}
     - name: victoria_41
       rect:
         serializedVersion: 2
@@ -804,16 +804,16 @@ TextureImporter:
         y: 0
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -16, y: 16}
-        - {x: -14, y: -1}
-        - {x: -7, y: -6}
-        - {x: 12, y: -6}
-        - {x: 16, y: 6}
-        - {x: 16, y: 16}
+      - - {x: -16, y: 28.8}
+        - {x: -14, y: 11.8}
+        - {x: -7, y: 6.8}
+        - {x: 12, y: 6.8}
+        - {x: 16, y: 18.8}
+        - {x: 16, y: 28.8}
     - name: victoria_42
       rect:
         serializedVersion: 2
@@ -821,18 +821,18 @@ TextureImporter:
         y: 0
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -8, y: 12}
-        - {x: -13, y: 10}
-        - {x: -13, y: -11}
-        - {x: -8, y: -12}
-        - {x: 11, y: -12}
-        - {x: 13, y: -10}
-        - {x: 13, y: 11}
-        - {x: 12, y: 12}
+      - - {x: -8, y: 24.8}
+        - {x: -13, y: 22.8}
+        - {x: -13, y: 1.8000002}
+        - {x: -8, y: 0.8000002}
+        - {x: 11, y: 0.8000002}
+        - {x: 13, y: 2.8000002}
+        - {x: 13, y: 23.8}
+        - {x: 12, y: 24.8}
     - name: victoria_43
       rect:
         serializedVersion: 2
@@ -840,17 +840,17 @@ TextureImporter:
         y: 0
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -7, y: 16}
-        - {x: -9, y: 14}
-        - {x: -9, y: -16}
-        - {x: 5, y: -16}
-        - {x: 5, y: -12}
-        - {x: 7, y: 9}
-        - {x: 7, y: 16}
+      - - {x: -7, y: 28.8}
+        - {x: -9, y: 26.8}
+        - {x: -9, y: -3.1999998}
+        - {x: 5, y: -3.1999998}
+        - {x: 5, y: 0.8000002}
+        - {x: 7, y: 21.8}
+        - {x: 7, y: 28.8}
     - name: victoria_44
       rect:
         serializedVersion: 2
@@ -858,14 +858,14 @@ TextureImporter:
         y: 0
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -7, y: 16}
-        - {x: -5, y: -16}
-        - {x: 9, y: -16}
-        - {x: 9, y: 16}
+      - - {x: -7, y: 28.8}
+        - {x: -5, y: -3.1999998}
+        - {x: 9, y: -3.1999998}
+        - {x: 9, y: 28.8}
     outline: []
   spritePackingTag: 
   userData: 

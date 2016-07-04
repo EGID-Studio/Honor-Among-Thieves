@@ -124,7 +124,9 @@
      <Compile Include="Assets\AstarPathfindingProject\Utilities\UnityReferenceHelper.cs" />
      <Compile Include="Assets\AstarPathfindingProject\changelog.cs" />
      <Compile Include="Assets\grid.cs" />
-     <Compile Include="Assets\ls.cs" />
+     <Compile Include="Assets\scripts\other\itempick.cs" />
+     <Compile Include="Assets\scripts\other\ls.cs" />
+     <Compile Include="Assets\scripts\player\eq.cs" />
      <Compile Include="Assets\scripts\player\mvc.cs" />
      <Compile Include="Assets\test.cs" />
      <None Include="Assets\AstarPathfindingProject\Editor\EditorAssets\Materials\Navmesh.shader" />
@@ -146,11 +148,11 @@
  <Reference Include="UnityEngine.Networking">
  <HintPath>D:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
- <Reference Include="Pathfinding.JsonFx">
- <HintPath>D:/Honor Among Thieves/Honor Among Thieves/Assets/AstarPathfindingProject/Plugins/JsonFx/Pathfinding.JsonFx.dll</HintPath>
- </Reference>
  <Reference Include="Pathfinding.Ionic.Zip.Reduced">
  <HintPath>D:/Honor Among Thieves/Honor Among Thieves/Assets/AstarPathfindingProject/Plugins/DotNetZip/Pathfinding.Ionic.Zip.Reduced.dll</HintPath>
+ </Reference>
+ <Reference Include="Pathfinding.JsonFx">
+ <HintPath>D:/Honor Among Thieves/Honor Among Thieves/Assets/AstarPathfindingProject/Plugins/JsonFx/Pathfinding.JsonFx.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
